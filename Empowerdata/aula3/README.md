@@ -7,4 +7,4 @@
 * objetivo: 
 * cenário: 
 
-![.PNG](https://github.com/ana-karine/python/tree/main/Empowerdata/aula3)
+![](./)

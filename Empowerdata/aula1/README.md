@@ -7,4 +7,4 @@
 * objetivo: Gerar automaticamente PDFs com Python
 * cenário: Emitir orçamentos para sua empresa
 
-![Orçamento_Python.PNG](https://github.com/ana-karine/python/tree/main/Empowerdata/aula1)
+![Orçamento Python](./Orçamento_Python.PNG)
