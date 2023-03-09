@@ -3,6 +3,9 @@
 
 ## ambiente: Jupyter Notebook
 
+## Aula 2:
+
+
 ## projeto 2:
 * objetivo: 
 * cenário: 
