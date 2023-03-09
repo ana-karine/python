@@ -10,10 +10,16 @@
 * converter tipos de dados
 * utilizar variáveis para armazenar dados
 * instalar e utilizar a biblioteca `fpdf`
-* projeto: Gerar automaticamente PDFs com Python
+* projeto: Gerar automaticamente PDFs
 
 ## Aula 2:
-
+* instalar e utilizar bibliotecas
+* buscar dados de ações automaticamente
+* gerar algumas estatísticas com esses dados
+* gerar um gráfico simples de linha
+* automatizar o controle do teclado e mouse com o `pyautogui`
+* utilizar strings de múltiplas linhas
+* projeto: Enviar e-mails de forma automática
 
 ## Aula 3:
 
