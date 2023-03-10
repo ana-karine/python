@@ -1,7 +1,7 @@
 # Semana do Python na Prática - Empowerdata
 ## 07/03/2023
 
-## ambiente: Jupyter Notebook
+## Ambiente: Jupyter Notebook
 
 ## Aula 2:
 * instalar e utilizar bibliotecas
@@ -10,9 +10,9 @@
 * gerar um gráfico simples de linha
 * automatizar o controle do teclado e mouse com o `pyautogui`
 * utilizar strings de múltiplas linhas
-* projeto 2: Como automatizar tarefas no Python
+* projeto 2: Como automatizar tarefas
 
-## projeto 2:
+## Projeto 2:
 * objetivo: Enviar e-mails de forma automática
 * cenário: Você trabalha em uma empresa de investimentos e todos os dias precisa enviar um e-mail com o
 valor da cotação de algumas ações. O e-mail precisa conter as informações dos últimos seis meses:

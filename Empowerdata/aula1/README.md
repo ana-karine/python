@@ -1,7 +1,7 @@
 # Semana do Python na Prática - Empowerdata
 ## 06/03/2023
 
-## ambiente: Jupyter Notebook
+## Ambiente: Jupyter Notebook
 
 ## Aula 1:
 * imprimir dados na tela do computador
@@ -10,10 +10,10 @@
 * converter tipos de dados
 * utilizar variáveis para armazenar dados
 * instalar e utilizar a biblioteca `fpdf`
-* projeto 1: Gerar automaticamente PDFs no Python
+* projeto 1: Gerar automaticamente PDFs
 
-## projeto 1:
-* objetivo: Gerar automaticamente PDFs no Python
+## Projeto 1:
+* objetivo: Gerar automaticamente PDFs
 * cenário: Emitir orçamentos para sua empresa
 
 ![Orçamento Python](./Orçamento_Python.PNG)
