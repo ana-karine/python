@@ -10,6 +10,7 @@
 * gerar um gráfico simples de linha
 * automatizar o controle do teclado e mouse com o `pyautogui`
 * utilizar strings de múltiplas linhas
+* projeto 2: Como automatizar tarefas no Python
 
 ## projeto 2:
 * objetivo: Enviar e-mails de forma automática
